@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HW0.App/HW0.App.csproj" />
+  <Project Path="HW0.Tests/HW0.Tests.csproj" />
+</Solution>
