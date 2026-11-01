@@ -1,0 +1,25 @@
+SENG 116 - HW1 parameter card
+Student number          : 240201415
+
+Part A
+  Vehicle.Describe()     : 06 ABC 123 (Ada)
+  ParkingSpot.Describe() : Spot 3: free
+                           Spot 3: 06 ABC 123
+
+Part B
+  Plate format           : capital letters, all spaces removed
+                           " 06 abc 123 " -> "06ABC123"
+  Tariff.FreeMinutes     : 30
+  Tariff.UnitMinutes     : 60
+  Tariff.UnitRate        : 30
+  Tariff.MaxFee          : 140
+  Example fees           :
+        30 min ->    0 TL
+        31 min ->   30 TL
+        61 min ->   60 TL
+       150 min ->   90 TL
+       600 min ->  140 TL
+
+Part C
+  Garage.Enter uses      : the free spot with the HIGHEST number
+  First ticket number    : 301

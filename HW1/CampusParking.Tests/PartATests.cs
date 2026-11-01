@@ -1,3 +1,4 @@
+using CampusParking;
 namespace CampusParking.Tests;
 
 // HW1 Part A (Week 2): classes, objects, constructors, identity.
